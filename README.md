@@ -6,7 +6,7 @@
 - 姓名：coolkeychen
 - 年龄：29
 - 工作：目前就职于-立达信有限公司
-- 擅长技能：css、javascript、jquery、node、vue、es6等
+- 擅长技能：css、javascript、jquery、node、vue、react、es5、es6等
 - 爱好：逛论坛（知乎、简书、github、掘金）、写博客
 - 邮箱：120577840@qq.com
 
@@ -17,5 +17,5 @@
 😊 * I will record my coding life, no matter long or short。 Maybe oneday in the future, I would read these blog and give me a diffrent feal. I hope you like it, you can star and follow me !!
 
 
- > 常见面试题
+ > 常见知识点
  - [深拷贝与㳀拷贝]](https://github.com/coolkeychen/blog/issues/1)
