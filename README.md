@@ -11,3 +11,11 @@
 - 邮箱：120577840@qq.com
 
 ## 博客
+ 2018年的一个目标，也就是坚持写博客，写日志，记录下编程生活中的点点滴滴，记录自己的成长旅程，也许在未来的某一天，重新回首，能有不一样的感悟，无论生活，还是编程。✊。
+
+
+😊 * I will record my coding life, no matter long or short。 Maybe oneday in the future, I would read these blog and give me a diffrent feal. I hope you like it, you can star and follow me !!
+
+
+ > 常见面试题
+ - [深拷贝与㳀拷贝]](https://github.com/coolkeychen/blog/issues/1)
