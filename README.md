@@ -19,4 +19,5 @@
 
  > 常见知识点
  - [git-flow 分支管理方案](https://github.com/coolkeychen/blog/issues/1)
- - [深拷贝与㳀拷贝](https://github.com/coolkeychen/blog/issues/2)
+ - [CSS 居中](https://github.com/coolkeychen/blog/issues/2)
+ - [深拷贝与㳀拷贝](https://github.com/coolkeychen/blog/issues/3)
