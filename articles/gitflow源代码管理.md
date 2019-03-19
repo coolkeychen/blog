@@ -14,7 +14,8 @@ Git flow包含master、develop、feature、release和hotfix分支。长期存在
 
 ### **master分支**
 master用于存放所有正式发布的版本，与生产环境代码保持一致，不允许直接提交代码，只能通过release和hotfix分支合并更新代码。
-
+![git-flow](https://github.com/coolkeychen/blog/blob/master/images/11.png)
+![jiben](https://github.com/coolkeychen/blog/blob/master/images/last_knight.jpg)
 注意：不允许在master分支直接提交代码，只能合并代码
 
 ### **develop分支**
