@@ -22,6 +22,7 @@
  - [CSS 居中](https://github.com/coolkeychen/blog/issues/2)
  - [React 性能优化](https://github.com/coolkeychen/blog/issues/3)
  - [数组去重](https://github.com/coolkeychen/blog/issues/4)
+ - [gitflow源代码管理](https://github.com/coolkeychen/blog/issues/5)
  - [深拷贝与㳀拷贝](https://github.com/coolkeychen/blog/issues/5)
 
  >## 一些比较好的博客或者文章
