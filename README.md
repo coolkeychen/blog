@@ -31,6 +31,7 @@
  - [深拷贝与㳀拷贝](https://github.com/coolkeychen/blog/issues/5)
 
  >## 个人博客
+  - [2018往事回首篇](https://github.com/coolkeychen/blog/issues/6)
 
  >## 一些比较好的博客或者文章
  - [每天一条JS小知识](https://cnodejs.org/topic/56a050ac8392272262331d62)
