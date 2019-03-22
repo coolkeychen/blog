@@ -28,7 +28,7 @@
  - [React 性能优化](https://github.com/coolkeychen/blog/issues/3)
  - [数组去重](https://github.com/coolkeychen/blog/issues/4)
  - [gitflow源代码管理](https://github.com/coolkeychen/blog/issues/5)
- - [深拷贝与㳀拷贝](https://github.com/coolkeychen/blog/issues/5)
+ - [深拷贝与㳀拷贝](https://github.com/coolkeychen/blog/issues/7)
 
  >## 个人博客
   - [2018往事回首篇](https://github.com/coolkeychen/blog/issues/6)
