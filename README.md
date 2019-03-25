@@ -29,6 +29,7 @@
  - [数组去重](https://github.com/coolkeychen/blog/issues/4)
  - [gitflow源代码管理](https://github.com/coolkeychen/blog/issues/5)
  - [深拷贝与㳀拷贝](https://github.com/coolkeychen/blog/issues/7)
+ - [React组件创建方式及区别](https://github.com/coolkeychen/blog/issues/8)
 
  >## 个人博客
   - [2018往事回首篇](https://github.com/coolkeychen/blog/issues/6)
