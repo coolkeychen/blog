@@ -30,6 +30,7 @@
  - [gitflow源代码管理](https://github.com/coolkeychen/blog/issues/5)
  - [深拷贝与㳀拷贝](https://github.com/coolkeychen/blog/issues/7)
  - [React组件创建方式及区别](https://github.com/coolkeychen/blog/issues/8)
+ - [论一次登录页所经历的坑及所学](https://github.com/coolkeychen/blog/issues/9)
 
  >## 个人博客
   - [2018往事回首篇](https://github.com/coolkeychen/blog/issues/6)
