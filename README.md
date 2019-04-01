@@ -24,10 +24,11 @@
 
  >## 常见知识点
  - [git-flow 分支管理方案](https://github.com/coolkeychen/blog/issues/1)
+ - [git-flow 源代码管理](https://github.com/coolkeychen/blog/issues/5)
  - [CSS 居中](https://github.com/coolkeychen/blog/issues/2)
  - [数组去重](https://github.com/coolkeychen/blog/issues/4)
- - [gitflow源代码管理](https://github.com/coolkeychen/blog/issues/5)
  - [深拷贝与㳀拷贝](https://github.com/coolkeychen/blog/issues/7)
+ - [谈闭包](https://github.com/coolkeychen/blog/issues/11)
  - [论一次登录页所经历的坑及所学](https://github.com/coolkeychen/blog/issues/9)
  
 
@@ -37,7 +38,7 @@
 - [React-intl 实现国际化多语言](https://github.com/coolkeychen/blog/issues/10)
 
 >## Vue
-- [Vue 工作原理](https://github.com/coolkeychen/blog/issues/3)
+- [Vue 工作原理](https://github.com/coolkeychen/blog/issues/)
 
  >## 个人博客
   - [2018往事回首篇](https://github.com/coolkeychen/blog/issues/6)
