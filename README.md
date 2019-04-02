@@ -30,20 +30,26 @@
  - [深拷贝与㳀拷贝](https://github.com/coolkeychen/blog/issues/7)
  - [谈闭包](https://github.com/coolkeychen/blog/issues/11)
  - [论一次登录页所经历的坑及所学](https://github.com/coolkeychen/blog/issues/9)
+ - [js跨域问题](https://github.com/coolkeychen/blog/issues/12)
  
 
 >## React
 - [React 性能优化](https://github.com/coolkeychen/blog/issues/3)
 - [React组件创建方式及区别](https://github.com/coolkeychen/blog/issues/8)
 - [React-intl 实现国际化多语言](https://github.com/coolkeychen/blog/issues/10)
+- [React-loadable 实现按需加载](https://github.com/coolkeychen/blog/issues/12)
+- [React-编码注意事项](https://github.com/coolkeychen/blog/issues/12)
+- [Redux 构建](https://github.com/coolkeychen/blog/issues/12)
+- [Redux 本地数据持久化](https://github.com/coolkeychen/blog/issues/12)
+
 
 >## Vue
-- [Vue 工作原理](https://github.com/coolkeychen/blog/issues/)
+- [Vue 父子组件传值](https://github.com/coolkeychen/blog/issues/)
 
  >## 个人博客
-  - [2018往事回首篇](https://github.com/coolkeychen/blog/issues/6)
+- [2018往事回首篇](https://github.com/coolkeychen/blog/issues/6)
 
  >## 一些比较好的博客或者文章
- - [每天一条JS小知识](https://cnodejs.org/topic/56a050ac8392272262331d62)
- - [冴羽的博客](https://github.com/mqyqingfeng/Blog/blob/master/README.md)
+- [每天一条JS小知识](https://cnodejs.org/topic/56a050ac8392272262331d62)
+- [冴羽的博客](https://github.com/mqyqingfeng/Blog/blob/master/README.md)
 
