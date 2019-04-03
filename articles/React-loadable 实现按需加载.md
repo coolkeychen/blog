@@ -72,6 +72,13 @@ export default [
     component: silentLoadable(() => import('@/modules/home/HomeMain')),
   },
   ...
+  // 预加载
+  {
+    path: '/',
+    exact: true,
+    component: silentLoadable(() => import('@/modules/network/NetworkMain')).preLoad(),
+  },
+  ...
 ]
 ```
 
