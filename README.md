@@ -38,7 +38,7 @@
 - [React组件创建方式及区别](https://github.com/coolkeychen/blog/issues/8)
 - [React-intl 实现国际化多语言](https://github.com/coolkeychen/blog/issues/10)
 - [React-loadable 实现按需加载](https://github.com/coolkeychen/blog/issues/12)
-- [React-编码注意事项](https://github.com/coolkeychen/blog/issues/12)
+- [React 编码注意事项](https://github.com/coolkeychen/blog/issues/12)
 - [Redux 构建](https://github.com/coolkeychen/blog/issues/12)
 - [Redux 本地数据持久化](https://github.com/coolkeychen/blog/issues/12)
 - [React 高阶组件](https://github.com/coolkeychen/blog/issues/12)
