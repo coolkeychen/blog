@@ -31,6 +31,7 @@
  - [谈闭包](https://github.com/coolkeychen/blog/issues/11)
  - [论一次登录页所经历的坑及所学](https://github.com/coolkeychen/blog/issues/9)
  - [js跨域问题](https://github.com/coolkeychen/blog/issues/13)
+ - [js 代码简洁之道](https://github.com/coolkeychen/blog/issues/15)
  - [聊继承](https://github.com/coolkeychen/blog/issues/13)
  
 
