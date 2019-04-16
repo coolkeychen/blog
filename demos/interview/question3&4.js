@@ -74,9 +74,19 @@ const saleItems = [
 ]
 
 function sumByQuarter(saleItems) {
-    
+    const result = saleItems.reduce((quarter,item) => {
+        const whichQuarter = saleItems.find(arrItem => {
+            console.log('/',arrItem);
+            Math.ceil(arrItem.month/3)===1
+        });
+
+        console.log(whichQuarter);
+    },[])
+    return result;
 }
 
 function averageByQuarter(saleItems) {
     
 }
+
+sumByQuarter(saleItems);
