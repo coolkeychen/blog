@@ -86,3 +86,7 @@ release分支同一时间只能有1个，生命周期很短，只为了修复线
 4. 完成代码同步并提交到gitlab后，所有开发人员在新仓库的功能分支上进行开发任务
 5. 完成git代码迁移
 ### **第三阶段：测试环境、预生产环境、生产环境的源码仓库配置需要切换到新仓库**
+
+## 参考
+- [git-tower](https://www.git-tower.com/learn/git/ebook/cn/command-line/advanced-topics/git-flow)
+- [git-flow 备忘清单](https://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)

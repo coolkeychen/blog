@@ -89,4 +89,15 @@ function averageByQuarter(saleItems) {
     
 }
 
-sumByQuarter(saleItems);
+// sumByQuarter(saleItems);
+
+var data = [{"score":1,iNum:2},{"score":2,iNum:3},{"score":3,iNum:4},{"score":3,iNum:5}];
+
+var result = data.reduce(function(r, e) {
+   var score = e.score;
+   var scoreType = score %2==0 ? `${score-1}-${score}`:`${score}-${score+1}`
+  r[scoreType] = (r[scoreType] || 0) + e.iNum;
+  return r;
+}, {});
+
+console.log(result);
