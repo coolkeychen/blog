@@ -35,6 +35,7 @@
  - [前端模糊查询](https://github.com/coolkeychen/blog/issues/16)
  - [聊继承](https://github.com/coolkeychen/blog/issues/13)
  - [input、debounce、decorator 持续优化](https://github.com/coolkeychen/blog/issues/19)
+ - [利用 Object 优化嵌套的条件语句](https://github.com/coolkeychen/blog/issues/20)
  
 
 >## React
