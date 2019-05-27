@@ -23,8 +23,6 @@
 
 
  >## 常见知识点
- - [git-flow 分支管理方案](https://github.com/coolkeychen/blog/issues/1)
- - [git-flow 源代码管理](https://github.com/coolkeychen/blog/issues/5)
  - [CSS 居中](https://github.com/coolkeychen/blog/issues/2)
  - [数组去重](https://github.com/coolkeychen/blog/issues/4)
  - [深拷贝与㳀拷贝](https://github.com/coolkeychen/blog/issues/7)
@@ -37,6 +35,11 @@
  - [input、debounce、decorator 持续优化](https://github.com/coolkeychen/blog/issues/19)
  - [利用 Object 优化嵌套的条件语句](https://github.com/coolkeychen/blog/issues/20)
  
+
+>## Git
+ - [git-flow 分支管理方案](https://github.com/coolkeychen/blog/issues/1)
+ - [git-flow 源代码管理](https://github.com/coolkeychen/blog/issues/5)
+ - [git 常用命令](https://github.com/coolkeychen/blog/issues/21)
 
 >## React
 - [React 性能优化](https://github.com/coolkeychen/blog/issues/3)
