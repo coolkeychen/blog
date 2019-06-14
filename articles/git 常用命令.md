@@ -21,3 +21,18 @@ git pull
 ```
 git config --global core.quotepath false
 ```
+
+5. 推送关联到远程分支
+```
+git push --set-upstream origin feature/BMS-403
+```
+
+6. 删除远程分支 
+```
+git push origin --delete Chapater6 
+```
+
+7. 删除本地分支
+```
+git branch -d Chapater6
+```
