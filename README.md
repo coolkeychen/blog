@@ -35,6 +35,8 @@
  - [input、debounce、decorator 持续优化](https://github.com/coolkeychen/blog/issues/19)
  - [利用 Object 优化嵌套的条件语句](https://github.com/coolkeychen/blog/issues/20)
  
+>## Webpack
+- [webpack url-loader 解决项目中图片打包问题](https://github.com/coolkeychen/blog/issues/23)
 
 >## Git
  - [git-flow 分支管理方案](https://github.com/coolkeychen/blog/issues/1)
