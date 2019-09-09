@@ -65,6 +65,7 @@
 - [微信小程序使用微信组件swiper实现中间大图另外两张小图 ](https://github.com/coolkeychen/blog/issues/22)
 
 >## Node
+- [Node 常规配置 ](https://github.com/coolkeychen/blog/issues/23)
 
  >## 个人博客
 - [2018往事回首篇](https://github.com/coolkeychen/blog/issues/6)
