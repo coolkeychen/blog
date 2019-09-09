@@ -36,7 +36,7 @@
  - [利用 Object 优化嵌套的条件语句](https://github.com/coolkeychen/blog/issues/20)
  
 >## Webpack
-- [webpack url-loader 解决项目中图片打包问题](https://github.com/coolkeychen/blog/issues/23)
+- [webpack url-loader 解决项目中图片打包问题](https://github.com/coolkeychen/blog/issues/22)
 
 >## Git
  - [git-flow 分支管理方案](https://github.com/coolkeychen/blog/issues/1)
