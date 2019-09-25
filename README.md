@@ -53,6 +53,7 @@
 - [Redux 本地数据持久化](https://github.com/coolkeychen/blog/issues/12)
 - [React 高阶组件](https://github.com/coolkeychen/blog/issues/12)
 - [React中使用setState更新对象](https://github.com/coolkeychen/blog/issues/18)
+- [使用 react.lazy 和 suspense 延迟加载 React Components](https://github.com/coolkeychen/blog/issues/26)
 
 
 >## Vue
