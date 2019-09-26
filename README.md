@@ -72,6 +72,7 @@
 >## HTTP
 - [从输入URL到页面加载发生了什么](https://github.com/coolkeychen/blog/issues/23)
 - [axios 封装](https://github.com/coolkeychen/blog/issues/25)
+- [通过JSBridge与原生交互](https://github.com/coolkeychen/blog/issues/27)
 
  >## 个人博客
 - [2018往事回首篇](https://github.com/coolkeychen/blog/issues/6)
@@ -79,4 +80,6 @@
  >## 一些比较好的博客或者文章
 - [每天一条JS小知识](https://cnodejs.org/topic/56a050ac8392272262331d62)
 - [冴羽的博客](https://github.com/mqyqingfeng/Blog/blob/master/README.md)
+- [JSBridge的原理](https://juejin.im/post/5abca877f265da238155b6bc)
+- [11道浏览器原理面试题](https://juejin.im/post/5d89798d6fb9a06b102769b1)
 
