@@ -4,8 +4,6 @@
 # 简介
 
 - 姓名：coolkeychen
-- 年龄：30
-- 工作：目前就职于-立达信有限公司
 - 擅长技能：css、javascript、jquery、node、vue、react、es5、es6等
 - 爱好：逛论坛（知乎、简书、github、掘金）、写博客
 - 邮箱：120577840@qq.com
@@ -34,6 +32,7 @@
  - [聊继承](https://github.com/coolkeychen/blog/issues/13)
  - [input、debounce、decorator 持续优化](https://github.com/coolkeychen/blog/issues/19)
  - [利用 Object 优化嵌套的条件语句](https://github.com/coolkeychen/blog/issues/20)
+- [常见 js 技巧](https://github.com/coolkeychen/blog/issues/30)
  
 >## Webpack
 - [webpack url-loader 解决项目中图片打包问题](https://github.com/coolkeychen/blog/issues/22)
@@ -63,6 +62,8 @@
 
 >## CSS 小技巧
 - [CSS过滤器：彩色图片变白 ](https://github.com/coolkeychen/blog/issues/17)
+- [常用 CSS 技巧](https://github.com/coolkeychen/blog/issues/29)
+
 
 >## 小程序
 - [微信小程序使用微信组件swiper实现中间大图另外两张小图 ](https://github.com/coolkeychen/blog/issues/22)
@@ -77,10 +78,13 @@
 
  >## 个人博客
 - [2018往事回首篇](https://github.com/coolkeychen/blog/issues/6)
+- [美言摘录](https://github.com/coolkeychen/blog/issues/31)
+
 
  >## 一些比较好的博客或者文章
 - [每天一条JS小知识](https://cnodejs.org/topic/56a050ac8392272262331d62)
 - [冴羽的博客](https://github.com/mqyqingfeng/Blog/blob/master/README.md)
 - [JSBridge的原理](https://juejin.im/post/5abca877f265da238155b6bc)
 - [11道浏览器原理面试题](https://juejin.im/post/5d89798d6fb9a06b102769b1)
+- [react hooks](https://juejin.im/post/5d4f8f16f265da03d60ef131)
 
