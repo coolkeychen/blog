@@ -6,7 +6,7 @@ git config --global user.name "coolkeychen"
 git config --global user.email "coolkeychen@gmail.com"
 ```
 
-2. 查看全局设置
+2. 列出所有 Git 当时能找到的配置
 ```
 git config --global --list
 ```

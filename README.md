@@ -59,6 +59,7 @@
 - [Vue 父子组件传值](https://github.com/coolkeychen/blog/issues/)
 - [解决部份手机video层级过高问题](https://github.com/coolkeychen/blog/issues/24)
 - [vue 深度作用选择器](https://github.com/coolkeychen/blog/issues/28)
+- [vue 在新标签页上打开页面](https://github.com/coolkeychen/blog/issues/31)
 
 >## CSS 小技巧
 - [CSS过滤器：彩色图片变白 ](https://github.com/coolkeychen/blog/issues/17)
