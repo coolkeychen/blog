@@ -36,3 +36,8 @@ git push origin --delete Chapater6
 ```
 git branch -d Chapater6
 ```
+
+8. 在本地新建分支cat拉取远程分支代码，并自动切换到该本地分支cat
+```
+git checkout -b cat origin/cat
+```
