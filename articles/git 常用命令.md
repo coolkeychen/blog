@@ -41,3 +41,37 @@ git branch -d Chapater6
 ```
 git checkout -b cat origin/cat
 ```
+
+9. 在 linux 环境下，git pull、 git push 都需要输入用户名跟密码，使用以下命令，让 linux 环境自动记录用户中跟密码，避免重复输入的烦恼; 以下命令也是长期存储密码的意思
+
+```
+git config --global credential.helper store
+```
+或者
+```
+sudo vim ~/.gitconfig
+
+编辑 git 配置文件，然后输入
+
+[credential]
+    helper = store
+```
+
+10.记录用户命令  
+
+1.设置记住密码（默认15分钟）;
+```
+git config --global credential.helper cache
+```
+2.自定义设置多长时间
+```
+git config credential.helper 'cache --timeout=3600'
+```
+3.长期存储密码
+```
+git config --global credential.helper store
+```
+4.增加远程地址的时候带上密码也是可以的。
+```
+git pull https://yourname:password@github.comcoolkeychen/blog.git
+```
