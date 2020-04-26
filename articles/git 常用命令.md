@@ -1,4 +1,8 @@
 # git 常用命令
+
+## 前言
+> 随着 分布式版本控制系统GIT 越来越受欢迎，平时进行代码提交，把经常用到的一些命令记录下来，防止遗忘，好记录不如烂笔头。
+
 1. git config 设置名字/email
 ```
 git config --global user.name "coolkeychen"
