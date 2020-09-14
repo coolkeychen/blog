@@ -59,8 +59,8 @@
 - [Vue 父子组件传值](https://github.com/coolkeychen/blog/issues/)
 - [解决部份手机video层级过高问题](https://github.com/coolkeychen/blog/issues/24)
 - [vue 深度作用选择器](https://github.com/coolkeychen/blog/issues/28)
-- [vue 在新标签页上打开页面](https://github.com/coolkeychen/blog/issues/31)
-- [vue 强制刷新子组件](https://github.com/coolkeychen/blog/issues/34)
+- [vue 在新标签页上打开页面](https://github.com/coolkeychen/blog/issues/32)
+- [vue 强制刷新子组件](https://github.com/coolkeychen/blog/issues/35)
 
 >## CSS 小技巧
 - [CSS过滤器：彩色图片变白 ](https://github.com/coolkeychen/blog/issues/17)
@@ -72,8 +72,8 @@
 
 >## Node
 - [Node 常规配置 ](https://github.com/coolkeychen/blog/issues/23)
-- [Node npm警告无效的配置代理配置](https://github.com/coolkeychen/blog/issues/32)
-- [Node 利用tree-node-cli生成目录树结构](https://github.com/coolkeychen/blog/issues/33)
+- [Node npm警告无效的配置代理配置](https://github.com/coolkeychen/blog/issues/33)
+- [Node 利用tree-node-cli生成目录树结构](https://github.com/coolkeychen/blog/issues/34)
 
 >## HTTP
 - [从输入URL到页面加载发生了什么](https://github.com/coolkeychen/blog/issues/23)
