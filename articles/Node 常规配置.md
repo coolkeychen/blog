@@ -12,3 +12,8 @@ npm config set registry https://registry.npm.taobao.org
 ```
 npm config get registry
 ```
+
+3. 列出全局安装 的插件
+```
+npm list --depth=0 -g
+```
