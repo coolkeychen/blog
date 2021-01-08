@@ -1,3 +1,10 @@
+<!--
+ * @Description: 
+ * @Author: Cat
+ * @Date: 2021-01-08 17:12:20
+ * @LastEditTime: 2021-01-08 17:13:37
+ * @LastEditor: Cat
+-->
 ![jiben](https://github.com/coolkeychen/blog/blob/master/images/last_knight.jpg)
 
 ---
@@ -32,7 +39,7 @@
  - [聊继承](https://github.com/coolkeychen/blog/issues/13)
  - [input、debounce、decorator 持续优化](https://github.com/coolkeychen/blog/issues/19)
  - [利用 Object 优化嵌套的条件语句](https://github.com/coolkeychen/blog/issues/20)
-- [常见 js 技巧](https://github.com/coolkeychen/blog/issues/30)
+
  
 >## Webpack
 - [webpack url-loader 解决项目中图片打包问题](https://github.com/coolkeychen/blog/issues/22)
@@ -66,6 +73,8 @@
 - [CSS过滤器：彩色图片变白 ](https://github.com/coolkeychen/blog/issues/17)
 - [常用 CSS 技巧](https://github.com/coolkeychen/blog/issues/29)
 
+>## js 小技巧
+- [常见 js 技巧](https://github.com/coolkeychen/blog/issues/30)
 
 >## 小程序
 - [微信小程序使用微信组件swiper实现中间大图另外两张小图 ](https://github.com/coolkeychen/blog/issues/22)
