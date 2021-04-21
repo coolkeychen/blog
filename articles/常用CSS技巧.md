@@ -2,7 +2,7 @@
  * @Description: 常用CSS技巧
  * @Author: Cat
  * @Date: 2021-04-21 23:13:44
- * @LastEditTime: 2021-04-21 23:23:39
+ * @LastEditTime: 2021-04-21 23:36:00
  * @LastEditor: Cat
 -->
 # 常用CSS技巧
@@ -57,7 +57,9 @@
 
  底下为我经常用到的样式，有兴趣的小伙伴可以参考一下
 ```
-*定义滚动条轨道 内阴影+圆角*/
+/**
+  * width 为宽度
+  */
 &::-webkit-scrollbar {
   width: 3px;
   background-color: @white;
@@ -67,6 +69,7 @@
   border-radius: 3px;
 }
 ```
+这里有个小技巧，当某个区域有滚动时，垂直滚动直接把鼠标停留在当前区域滚动鼠标滚轮即可，水平滚动按下 shift + 鼠标滚轮
 
 - [参考资料](https://developer.mozilla.org/zh-CN/docs/Web/CSS/text-align-last)
 - [掘金参考资料](https://juejin.im/post/5da3a357f265da5b6723ee1e)
