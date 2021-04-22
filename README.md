@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: Cat
  * @Date: 2021-01-08 17:12:20
- * @LastEditTime: 2021-01-08 17:13:37
+ * @LastEditTime: 2021-03-09 15:11:56
  * @LastEditor: Cat
 -->
 ![jiben](https://github.com/coolkeychen/blog/blob/master/images/last_knight.jpg)
@@ -88,6 +88,9 @@
 - [从输入URL到页面加载发生了什么](https://github.com/coolkeychen/blog/issues/23)
 - [axios 封装](https://github.com/coolkeychen/blog/issues/25)
 - [通过JSBridge与原生交互](https://github.com/coolkeychen/blog/issues/27)
+
+>## 性能优化
+- [Spa首屏加载优化](https://github.com/coolkeychen/blog/issues/36)
 
  >## 个人博客
 - [2018往事回首篇](https://github.com/coolkeychen/blog/issues/6)
