@@ -1,3 +1,10 @@
+<!--
+ * @Description: 常用CSS技巧
+ * @Author: Cat
+ * @Date: 2021-04-21 23:13:44
+ * @LastEditTime: 2021-04-21 23:36:00
+ * @LastEditor: Cat
+-->
 # 常用CSS技巧
 ## 引言
 > 在做前端开发时，有一些常用却容易忘记的css 技巧，在此文章做一下收录，防止遗忘
@@ -38,6 +45,31 @@
   }
 }
 ```
+ #### windows系统默认自带滚动条, 不是那么美观，作为折腾不息为原则, 底下对 chrome 兼容性不错，其他浏览器酌情使用吧！
+
+ 1. ::-webkit-scrollbar 滚动条整体部分
+ 2. ::-webkit-scrollbar-thumb  滚动条里面的小方块，能向上向下移动（或往左往右移动，取决于是垂直滚动条还是水平滚动条）
+ 3. ::-webkit-scrollbar-track  滚动条的轨道（里面装有Thumb）
+ 4. ::-webkit-scrollbar-button 滚动条的轨道的两端按钮，允许通过点击微调小方块的位置。
+ 5. ::-webkit-scrollbar-track-piece 内层轨道，滚动条中间部分（除去）
+ 6. ::-webkit-scrollbar-corner 边角，即两个滚动条的交汇处
+ 7. ::-webkit-resizer 两个滚动条的交汇处上用于通过拖动调整元素大小的小控件
+
+ 底下为我经常用到的样式，有兴趣的小伙伴可以参考一下
+```
+/**
+  * width 为宽度
+  */
+&::-webkit-scrollbar {
+  width: 3px;
+  background-color: @white;
+}
+&::-webkit-scrollbar-thumb {
+  background-color: #E8E8E8;
+  border-radius: 3px;
+}
+```
+这里有个小技巧，当某个区域有滚动时，垂直滚动直接把鼠标停留在当前区域滚动鼠标滚轮即可，水平滚动按下 shift + 鼠标滚轮
 
 - [参考资料](https://developer.mozilla.org/zh-CN/docs/Web/CSS/text-align-last)
 - [掘金参考资料](https://juejin.im/post/5da3a357f265da5b6723ee1e)
