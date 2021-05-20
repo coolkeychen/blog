@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: Cat
  * @Date: 2021-01-08 17:12:20
- * @LastEditTime: 2021-03-09 15:11:56
+ * @LastEditTime: 2021-05-20 17:50:17
  * @LastEditor: Cat
 -->
 ![jiben](https://github.com/coolkeychen/blog/blob/master/images/last_knight.jpg)
@@ -72,6 +72,7 @@
 >## CSS 小技巧
 - [CSS过滤器：彩色图片变白 ](https://github.com/coolkeychen/blog/issues/17)
 - [常用 CSS 技巧](https://github.com/coolkeychen/blog/issues/29)
+- [CSS3 :nth-child() 选择器](https://github.com/coolkeychen/blog/issues/36)
 
 >## js 小技巧
 - [常见 js 技巧](https://github.com/coolkeychen/blog/issues/30)
