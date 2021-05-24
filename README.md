@@ -2,10 +2,10 @@
  * @Description: 
  * @Author: Cat
  * @Date: 2021-01-08 17:12:20
- * @LastEditTime: 2021-05-20 17:50:17
+ * @LastEditTime: 2021-05-21 11:09:18
  * @LastEditor: Cat
 -->
-![jiben](https://github.com/coolkeychen/blog/blob/master/images/last_knight.jpg)
+![image](https://github.com/coolkeychen/blog/blob/master/images/last_knight.jpg?raw=true)
 
 ---
 # 简介
@@ -76,6 +76,7 @@
 
 >## js 小技巧
 - [常见 js 技巧](https://github.com/coolkeychen/blog/issues/30)
+- [js 获取URL参数](https://github.com/coolkeychen/blog/issues/37)
 
 >## 小程序
 - [微信小程序使用微信组件swiper实现中间大图另外两张小图 ](https://github.com/coolkeychen/blog/issues/22)

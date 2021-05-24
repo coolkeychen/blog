@@ -30,7 +30,7 @@ span:nth-child(-n+9):nth-child(n+6)
 ### 实践
 这个是最近在做一个专题页,所遇到的具体情况
 
-![jiben](https://github.com/coolkeychen/blog/blob/master/images/issue-36-01.png)
+![image](https://github.com/coolkeychen/blog/blob/master/images/issue-36-01.png?raw=true)
 ```
 ul {
   margin-bottom: .6rem;
