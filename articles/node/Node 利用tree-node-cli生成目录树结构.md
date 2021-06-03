@@ -63,3 +63,6 @@ im
 -F, --trailing-slash      为目录添加'/'
 -h, --help                输出用法信息
 ```
+
+7. ### 备注
+windows 环境下，应使用 treee, Mac 环境下，使用 tree
