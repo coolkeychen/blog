@@ -1,3 +1,10 @@
+<!--
+ * @Description: 
+ * @Author: coolkeychen
+ * @Date: 2019-12-23 17:56:26
+ * @LastEditTime: 2021-10-08 15:40:57
+ * @LastEditor: coolkeychen
+-->
 # Node 常规配置
 
 ## 引言
@@ -16,4 +23,14 @@ npm config get registry
 3. 列出全局安装 的插件
 ```
 npm list --depth=0 -g
+```
+
+4. 更新
+```
+npm update -g xxx
+```
+
+5. 删除
+```
+npm uninstall -g xxx
 ```
