@@ -2,7 +2,7 @@
  * @Description: 
  * @Author: cat
  * @Date: 2021-10-09 16:53:40
- * @LastEditTime: 2021-10-09 16:58:54
+ * @LastEditTime: 2021-12-20 11:18:05
  * @LastEditor: cat
 -->
 # 使用 Object.prototype.toString.call(obj) 
@@ -25,4 +25,6 @@ console.log(Object.prototype.toString.call(function(){}));//[object Function]
 console.log(Object.prototype.toString.call([]));//[object Array]
 console.log(Object.prototype.toString.call(new Date));//[object Date]
 console.log(Object.prototype.toString.call(/\d/));//[object RegExp]
+console.log(Object.prototype.toString.call(val) === '[object File]')
+console.log(Object.prototype.toString.call(new Blob("a"))) === '[object Blob]';
 ```
